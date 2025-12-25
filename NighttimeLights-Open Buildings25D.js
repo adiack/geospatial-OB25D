@@ -1,5 +1,5 @@
 /**
- * @fileoverview Visualizes urbanization trends by overlaying NOAA Nighttime Lights 
+ * Visualizes urbanization trends by overlaying NOAA Nighttime Lights 
  * with Google Open Buildings temporal data.
  * MIT License 
  */
